@@ -1,4 +1,4 @@
-# Library Management System
+# BookWise
 This is a library management system implemented using object-oriented programming (OOP) in C++. The system allows users to manage books, borrowers, and transactions within a library.
 
 # Features
