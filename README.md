@@ -25,6 +25,4 @@ Library: Manages the collection of books, borrowers, and transactions in the lib
 
 Transaction: Represents a transaction of borrowing a book from the library. It stores information such as the borrower, book, transaction date, return date, etc.
 
-# License
-This library management system is open-source and is distributed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
